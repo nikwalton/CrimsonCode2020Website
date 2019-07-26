@@ -42,6 +42,6 @@ Deployment will happen later
 ## Contributing
 For style guidelines and tips for the general health of the website, see [CONTRIBUTING.MD](CONTRIBUTING.MD)
 ## Authors
-* **Nikolaus Walton** - *initial Development* - [nikwalton](https://github.com/nikwalton)
+* **Nikolaus Walton** - *Initial Development* - [nikwalton](https://github.com/nikwalton)
 ## License
 This project is maintained under the MIT License found at [LICENSE](LICENSE)
