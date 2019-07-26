@@ -1,5 +1,4 @@
-$bg-color: red;
+$body-bg: #000;
+$body-color: white;
 
-body {
-    background: $bg-color
-}
+@import "node_modules/bootstrap/scss/bootstrap";
