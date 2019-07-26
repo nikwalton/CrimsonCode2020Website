@@ -44,4 +44,4 @@ For style guidelines and tips for the general health of the website, see [CONTRI
 ## Authors
 * **Nikolaus Walton** - *initial Development* - [nikwalton](https://github.com/nikwalton)
 ## License
-This project is mainted under the MIT License found at [LICENSE.md](LICENSE.md)
+This project is mainted under the MIT License found at [LICENSE](LICENSE)
