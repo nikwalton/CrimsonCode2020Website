@@ -2,7 +2,7 @@
 # CrimsonCode 2020 Website
 this repository hosts the redesign of the CrimsonCode website for use by the WSU chapter of Association Of Computing Machinery.
 ## Getting Started
-You should have node which gives us npm as a package manager. 
+You should have node installed which gives you npm. 
 ### Ubuntu Install
 ---
 first update your packages
