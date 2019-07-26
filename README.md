@@ -28,9 +28,9 @@ npm install
 ```
 once node_modules is installed you can run
 ```
-gulp
+gulp build
 ```
-to see any changes done to website. The website will open as a local host and will update automatically to file changes due to browser sync being enaabled in the gulp file
+this will build the website and display any changes saved live via browser-sync 
 ## Coding style
 follow [google's guide for html/css](https://google.github.io/styleguide/htmlcssguide.html#CSS) and also for [javascript](https://google.github.io/styleguide/jsguide.html)
 ## Deployment
