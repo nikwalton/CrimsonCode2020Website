@@ -40,7 +40,7 @@ Deployment will happen later
 * Sass
 * Javascript
 ## Contributing
-For style guidelines and tips for the general health of the website, see [CONTRIBUTING.MD](CONTRIBUTING)
+For style guidelines and tips for the general health of the website, see [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Authors
 * **Nikolaus Walton** - *Initial Development* - [nikwalton](https://github.com/nikwalton)
 ## License
