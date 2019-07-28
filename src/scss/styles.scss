@@ -1,4 +1,26 @@
-$body-bg: #000;
-$body-color: white;
+
+.jumbotron {
+    min-height: 600px;
+    background-image: url("../assets/svg/header.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 0 !important
+}
+.
+.fade-in {
+    animation: fadeIn 2s;
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.lead{
+    color: white;
+}
 
 @import "node_modules/bootstrap/scss/bootstrap";
