@@ -11,7 +11,7 @@ the Crimsonode website project is set up to be a fairly standard web dev environ
 ## Editing the website
 * **All** major edits once the inital website is live - changing the look and feel of the website, animations, new js plugins, etc - should be done in a seperate brach to be merged once the work is as intended for both desktop and mobile. 9/10 times you will need to program in a alternative version for mobile. To check how it looks on mobile, chrome inspector has a mobile simulator if you hit the phone and tablet icon at the top of the chrome editor window.
 * The overal design aesthetic of the website should be **coherent** from start to finish. If nobody wants to design a specific look for the website, it's recomended you stick in vain of something like [material design](https://material.io/design/) or other flat design philosophies to keep any graphical work simple enough that it is not bounded to a single designer.
-* **ANY** merges for work done not by the Chair/Vice-Char or a designated web designer, should be reviews by atleast one other person before merging and sending it into production.
+* **ANY** merges for work done not by the Chair/Vice-Char or a designated web designer, should be reviewed by atleast one other person before merging and sending it into production.
 * Make sure any changes to font or plug-ins is supported by a vast array of web-browsers.
 ## Conclusion
 if you follow these contributing guidelines your web-deelopment process should go smoothly. Feel free to change up colors and iconography on the website for each hackathon season to keep it fresh. Happy coding 😄.
