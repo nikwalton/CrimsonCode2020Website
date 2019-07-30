@@ -3,11 +3,16 @@
     background-image: url("../assets/svg/header.svg");
     background-size: cover;
     background-repeat: no-repeat;
-    border-radius: 0 !important
+    border-radius: 0 !important;
+    width: 100%;
+    background-position: top center;
 }
 
+.body {
+    padding-top: 100px;
+}
 .fade-in {
-    animation: fadeIn 2s;
+    animation: fadeIn 6s;
 }
 @keyframes fadeIn {
     from {
