@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .jumbotron {
     min-height: 600px;
     background-image: url("../assets/svg/header.svg");
@@ -12,7 +15,7 @@
     padding-top: 100px;
 }
 .fade-in {
-    animation: fadeIn 6s;
+    animation: fadeIn 5s;
 }
 @keyframes fadeIn {
     from {
