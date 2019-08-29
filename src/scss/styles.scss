@@ -10,7 +10,9 @@ html{
     width: 100%;
     background-position: top center;
 }
-
+.card {
+    padding: 5px;
+}
 .body {
     padding-top: 100px;
 }
@@ -29,5 +31,6 @@ html{
 .lead.white{
     color: white;
 }
+
 
 @import "node_modules/bootstrap/scss/bootstrap";
